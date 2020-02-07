@@ -14,7 +14,7 @@
 <!-- Videos -->
   <xi:include href="./bookinfo.ptx" />
   <book xml:id="orcca" permid="eVd">
-    <title>Lane ORCCA (2019-2020)</title>
+    <title>CCC ORCCA (2019-2020)</title>
     <subtitle>Open Resources for Community College Algebra</subtitle>
     <xi:include href="./frontmatter.ptx" />
     <xi:include href="./chapter-basic-math-review.ptx" />
